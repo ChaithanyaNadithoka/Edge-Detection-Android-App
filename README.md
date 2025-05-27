@@ -82,7 +82,7 @@ Given the stability issues and runtime crashes involving `GLSurfaceView` and Ope
 
 | Raw Camera Feed | Edge Detection Output |
 |------------------|------------------------|
-| ![Raw](./app/src/main/res/drawable/raw_frame.jpg) | ![Edge](images/Edge.jpg) |
+| ![Raw](images/Pro.jpg) | ![Edge](images/Edge.jpg) |
 
 > 📌 These images are located in `app/src/main/res/drawable/` and used to demonstrate output frame rendering.
 
